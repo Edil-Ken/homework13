@@ -1,0 +1,26 @@
+/* @media (max-width: 1140px) {
+    .container {
+        padding: 0 15px;
+    }
+    .btn-wrapper button:not(:last-child) {
+        margin-right: 0;
+    }
+    .want img {
+        max-width: 540px;
+    }
+    .Choose .container {
+        background: #F8F8F8;
+    }
+    .inner-header {
+        display: flex;
+        gap: 100px;
+        justify-content: space-between;
+        align-items: center;
+        padding: 50px 15px;
+    }
+}
+@media (max-width: 768px) {
+    .col-4, .col-6, .col-12 {
+        width: 100%;
+    }
+} */
